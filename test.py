@@ -26,7 +26,7 @@ print("Hey")
 print("yo")
 
 
-def calculate_something(a, b, c, d, e, f, g, h):
+def __calculate_something(a, b, c, d, e, f, g, h):
     i = a + b
     j = (c + d) / 2
     k = e * f
