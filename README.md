@@ -18,3 +18,9 @@ Các thư viện sử dụng bao gồm:
 ## Sử dụng
 
 Sau khi cài đặt mỗi khi tiền hành commit code, precommit sẽ tự động check các file đã chỉnh sửa. Nếu không có lỗi commit sẽ được báo hoàn thành, ngược lại nếu có lỗi, người lập trình cần sửa các lỗi đó và tiến hành commit lại
+
+## Autocheck pull request
+
+sử dụng ứng dụng pep8speak (https://github.com/OrkoHunter/pep8speaks/)
+
+Cài đặt: bấm vào đường link sau và làm theo hướng dẫn: https://github.com/apps/pep8-speaks
