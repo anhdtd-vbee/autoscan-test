@@ -1,0 +1,11 @@
+# pre-commit==2.15.0
+# black==21.11b1
+# isort==4.3.21
+# flack8==4.0.1
+# pep8-naming==0.12.1
+
+pre-commit==2.15.0
+black==21.11b1
+isort==4.3.21
+flake8
+pep8-naming

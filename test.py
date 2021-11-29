@@ -26,6 +26,10 @@ print("Hey")
 print("yo")
 
 
+def myFunc():
+    return None
+
+
 def __calculate_something(a, b, c, d, e, f, g, h):
     i = a + b
     j = (c + d) / 2
